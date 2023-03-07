@@ -1,7 +1,7 @@
 package jp.co.css.TCST;
 import java.awt.Font;
 import java.awt.Dimension;
-import java.awt.Toolkit;
+import java.awt.Tosolkit;
 import java.awt.event.KeyEvent;
 import java.awt.event.ActionEvent;
 import javax.swing.JDialog;
