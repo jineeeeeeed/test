@@ -202,6 +202,7 @@ public class InputDenpyoNo implements MessageBoxValue
 //			}
 		}
 		return jContentPane;
+		// return jContentPane;
 	}
 
 	/**
