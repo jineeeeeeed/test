@@ -1,4 +1,4 @@
-package jp.co.jp.css.functionDao;
+package functionDao;
 
 import jp.co.css.base.AppConfig;
 import jp.co.css.bean.DbInfo;
