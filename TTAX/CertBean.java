@@ -1,4 +1,4 @@
-package jp.co.css.TTAX;
+ｑpackage jp.co.css.TTAX;
 
 import java.util.Date;
 
